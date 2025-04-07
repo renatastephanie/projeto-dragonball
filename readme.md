@@ -15,4 +15,4 @@ Este projeto é uma reprodução simples de uma página do dragon ball
 - **JavaScript** para interatividade ao trocar as imagens dos personagens e o fundo de cor.
 
 ## Este projeto
- - Para visualizar este projeto clique aqui https://renatastephanie.github.io/projeto-dragonball/
+ - Para visualizar este projeto clique aqui https://projeto-dragonball-lk7a.vercel.app/
